@@ -17,6 +17,5 @@ MPLAP IDE.
 
 Links :
 
-Simulation Video : https://youtu.be/dgIzjUwqjzc
-Hardware Video : https://youtu.be/A7CY09r0O3c
+Project Video : https://youtu.be/aqiopLhMMVs
 Source Code : https://github.com/A7med-Ashour/ES-Digital-Clock
